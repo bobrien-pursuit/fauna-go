@@ -1,0 +1,37 @@
+[
+  {
+    "name": "squirrel",
+    "id": "f6KI",
+    "points": 2
+  },
+  {
+    "name": "crackhead",
+    "id": "fL58",
+    "points": 1000
+  },
+  {
+    "id": "G3Sw",
+    "points": 50,
+    "name": "spotted salamander"
+  },
+  {
+    "name": "white-tailed deer",
+    "id": "RG8r",
+    "points": 20
+  },
+  {
+    "name": "whale",
+    "id": "5-TP",
+    "points": 200
+  },
+  {
+    "name": "bat",
+    "id": "kjaW",
+    "points": 30
+  },
+  {
+    "name": "bat",
+    "id": "zO1R",
+    "points": 30
+  }
+]
